@@ -1,3 +1,10 @@
+1.2.1:
+-adicionado NUI para o comando admincraft
+-adiciona config um config.NUI onde pode desligar a nui e usar o ox_lib context menu( a NUI vem desligar por padrao)
+
+
+
+
 1.2.0:
 - Adicionado sistema completo de logs via Discord Webhooks com:
   • Nome Steam, Discord e CID
